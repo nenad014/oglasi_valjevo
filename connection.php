@@ -1,3 +1,3 @@
 <?php
 
-$conn = mysqli_connect('localhost', 'root', '', 'valjevo_oglasi') or die('Error');
+$conn = mysqli_connect('localhost', 'root', '', 'va_oglasi') or die('Error');
